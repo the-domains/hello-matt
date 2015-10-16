@@ -1,6 +1,6 @@
 name: Hello Matt
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.07403581240214407
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: awareness
     item: null
     url: null
+typography_spectrum: 0.8477636454626918
